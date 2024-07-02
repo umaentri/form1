@@ -1,0 +1,41 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color: rgb(198, 198, 205);
+
+}
+.container{
+    width: 150vw;
+    display:flex;
+    margin: 100px;
+    padding: 20px;
+    justify-content:content;
+    flex-direction: column;
+}
+
+.box1{
+    box:1;
+    border-radius: 100;
+     
+}
+.box2{
+    box:2;
+    align-content: right;
+}
+.MyProfile{
+    display:flex;
+    border-radius: 50%;
+}
+
+.MyExperience{
+    
+}
+.box3{
+    box:2
+
+}
+
+.box4{
+    box:2
+
+}
